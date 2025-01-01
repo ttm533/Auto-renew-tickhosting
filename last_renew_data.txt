@@ -1,4 +1,4 @@
 Server ID: ce979bbd
-Renew status: Success
-Last renewal time: 2024-12-31 00:43:45
-New expiration time: 2025-01-12 00:48:17
+Renew status: Failed
+Last renewal time: 2025-01-01 00:48:44
+Error: Time not extended
